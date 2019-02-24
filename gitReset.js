@@ -24,3 +24,5 @@ $ git checkout master   還原為最新的master版本
 
 add sth
 fdsjkl
+
+master added
