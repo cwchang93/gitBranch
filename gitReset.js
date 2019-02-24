@@ -18,8 +18,14 @@ git reflog -n  (只顯示n行的過程紀錄)
 
 
 分支
+查看目前分支
 $ git branch
+
 $ git checkout 版控號碼(前四碼)
 $ git checkout master   還原為最新的master版本
 
-// hithere
+創立分支
+$ git branch 分支名稱
+
+切換分支
+$ git checkout 分支名稱
